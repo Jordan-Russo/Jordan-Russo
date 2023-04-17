@@ -1,3 +1,4 @@
+<img src="githubReadMeBanner.png">
 <h3 align="center">Full-stack software engineer based in New York that is motived by the transformative power of technology and looking to network with others.</h3>
 
 <h3 align="left">Connect with me:</h3>
