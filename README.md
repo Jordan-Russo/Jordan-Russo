@@ -27,15 +27,33 @@
 
 <h1 align="center">Technologies</h1>
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=HTML&color=285700&style=plastic&logo=html5&labelColor=333333&logo-color=white" alt="HTML5"/>
-  <img src="https://img.shields.io/static/v1?label=&message=CSS&color=66cc00&style=plastic&logo=css3&labelColor=333333&logo-color=white" alt="CSS3"/>
-  <img src="https://img.shields.io/static/v1?label=&message=SASS&color=285700&style=plastic&logo=sass&labelColor=333333&logo-color=white" alt="SASS"/>
-  <img src="https://img.shields.io/static/v1?label=&message=BOOTSTRAP&color=66cc00&style=plastic&logo=bootstrap&labelColor=333333&logo-color=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=285700&style=plastic&logo=javascript&labelColor=333333&logo-color=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/static/v1?label=&message=REACT&color=66cc00&style=plastic&logo=react&labelColor=333333&logo-color=white" alt="React"/>
-  <img src="https://img.shields.io/static/v1?label=&message=MONGO-DB&color=285700&style=plastic&logo=mongodb&labelColor=333333&logo-color=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/static/v1?label=&message=NODE-JS&color=66cc00&style=plastic&logo=nodedotjs&labelColor=333333&logo-color=white" alt="NodeJS"/>
-  <img src="https://img.shields.io/static/v1?label=&message=GIT&color=285700&style=plastic&logo=git&labelColor=333333&logo-color=white" alt="Git"/>
+  <picture>
+    <img src="https://img.shields.io/static/v1?label=&message=HTML&color=285700&style=plastic&logo=html5&labelColor=333333&logo-color=white" alt="HTML5"/>
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/static/v1?label=&message=CSS&color=66cc00&style=plastic&logo=css3&labelColor=333333&logo-color=white" alt="CSS3"/>
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/static/v1?label=&message=SASS&color=285700&style=plastic&logo=sass&labelColor=333333&logo-color=white" alt="SASS"/>
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/static/v1?label=&message=BOOTSTRAP&color=66cc00&style=plastic&logo=bootstrap&labelColor=333333&logo-color=white" alt="Bootstrap"/>
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=285700&style=plastic&logo=javascript&labelColor=333333&logo-color=white" alt="JavaScript"/>
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/static/v1?label=&message=REACT&color=66cc00&style=plastic&logo=react&labelColor=333333&logo-color=white" alt="React"/>
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/static/v1?label=&message=MONGO-DB&color=285700&style=plastic&logo=mongodb&labelColor=333333&logo-color=white" alt="MongoDB"/>
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/static/v1?label=&message=NODE-JS&color=66cc00&style=plastic&logo=nodedotjs&labelColor=333333&logo-color=white" alt="NodeJS"/>
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/static/v1?label=&message=GIT&color=285700&style=plastic&logo=git&labelColor=333333&logo-color=white" alt="Git"/>
+  </picture>
 </p>
 
 <h1 align="center">Connect</h1>
