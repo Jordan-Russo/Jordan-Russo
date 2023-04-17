@@ -1,6 +1,9 @@
 <img src="images/githubReadMeBannerv2.png" alt="banner">
 <p align="left">Full-stack software engineer based in New York that is motived by the transformative power of technology and looking to network with others.</h3>
 
+<!-- markdown test below -->
+[![Alt text for image](https://img.shields.io/static/v1?label=&message=WEBSITE&color=e95e0d&style=plastic&logo=fontawesome&labelColor=333333)](https://www.google.com){: style="text-decoration: none;" target="_blank" onmouseover="this.style.textDecoration='none'" onmouseout="this.style.textDecoration='underline'"}
+
 <p align="center">
   <a href="#" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration='none'">
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=e95e0d&style=plastic&logo=fontawesome&labelColor=333333" alt="Website"/>
