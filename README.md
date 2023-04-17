@@ -2,19 +2,19 @@
 <p align="left">Full-stack software engineer based in New York that is motived by the transformative power of technology and looking to network with others.</h3>
 
 <p align="center">
-  <a href="#" target="_blank" style="text-decoration: none; ">
+  <a href="#" target="_blank" style="text-decoration: none; onmouseover="this.style.textDecoration='none'"">
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=e95e0d&style=plastic&logo=fontawesome&labelColor=333333" alt="Website"/>
   </a>
-  <a href="#" target="_blank" style="text-decoration: none; ">
+  <a href="#" target="_blank" style="text-decoration: none; onmouseover="this.style.textDecoration='none'"">
     <img src="https://img.shields.io/static/v1?label=&message=LINKED-IN&color=61dafb&style=plastic&logo=linkedin&labelColor=333333" alt="LinkedIn"/>
   </a>
-  <a href="#" target="_blank" style="text-decoration: none; ">
+  <a href="#" target="_blank" style="text-decoration: none; onmouseover="this.style.textDecoration='none'"">
       <img src="https://img.shields.io/static/v1?label=&message=ANGEL-LIST&color=e95e0d&style=plastic&logo=angellist&labelColor=333333" alt="AngelList"/>
   </a>
-  <a href="#" target="_blank" style="text-decoration: none; ">
+  <a href="#" target="_blank" style="text-decoration: none; onmouseover="this.style.textDecoration='none'"">
     <img src="https://img.shields.io/static/v1?label=&message=TWITTER&color=61dafb&style=plastic&logo=twitter&labelColor=333333" alt="Twitter"/>
   </a>
-  <a href="#" target="_blank" style="text-decoration: none; ">
+  <a href="#" target="_blank" style="text-decoration: none; onmouseover="this.style.textDecoration='none'"">
       <img src="https://img.shields.io/static/v1?label=&message=RESUME&color=e95e0d&style=plastic&logo=docusign&labelColor=333333" alt="Resume"/>
   </a>
 </p>
@@ -45,19 +45,19 @@
 
 <h1 align="center">Connect</h1>
 <p align="center">
-  <a href="#" target="_blank" style="text-decoration: none; ">
+  <a href="#" target="_blank" style="text-decoration: none; onmouseover="this.style.textDecoration='none'"">
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=e95e0d&style=plastic&logo=fontawesome&labelColor=333333"/>
   </a>
-  <a href="#" target="_blank" style="text-decoration: none; ">
+  <a href="#" target="_blank" style="text-decoration: none; onmouseover="this.style.textDecoration='none'"">
     <img src="https://img.shields.io/static/v1?label=&message=LINKED-IN&color=61dafb&style=plastic&logo=linkedin&labelColor=333333"/>
   </a>
-  <a href="#" target="_blank" style="text-decoration: none; ">
+  <a href="#" target="_blank" style="text-decoration: none; onmouseover="this.style.textDecoration='none'"">
       <img src="https://img.shields.io/static/v1?label=&message=ANGEL-LIST&color=e95e0d&style=plastic&logo=angellist&labelColor=333333"/>
   </a>
-  <a href="#" target="_blank" style="text-decoration: none; ">
+  <a href="#" target="_blank" style="text-decoration: none; onmouseover="this.style.textDecoration='none'"">
     <img src="https://img.shields.io/static/v1?label=&message=TWITTER&color=61dafb&style=plastic&logo=twitter&labelColor=333333"/>
   </a>
-  <a href="#" target="_blank" style="text-decoration: none; ">
+  <a href="#" target="_blank" style="text-decoration: none; onmouseover="this.style.textDecoration='none'"">
       <img src="https://img.shields.io/static/v1?label=&message=RESUME&color=e95e0d&style=plastic&logo=docusign&labelColor=333333"/>
   </a>
 </p>
