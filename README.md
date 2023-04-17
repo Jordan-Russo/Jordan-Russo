@@ -1,10 +1,5 @@
-<style>
-    a:hover {
-        text-decoration: none !important;
-    }
-</style>
-
 <img src="images/githubReadMeBannerv2.png" alt="banner">
+
 <p align="left">Full-stack software engineer based in New York that is motived by the transformative power of technology and looking to network with others.</h3>
 
 <p align="center">
@@ -32,8 +27,7 @@
 <div style="display: flex; justify-content: center; align-items: center;">
   <!-- projects go in here -->
   <!-- make sure to include title, gif, and description -->
-  <!-- Make sure it's responsive and works in mobile (aka it's collapsable with flex)
-  2 columns wide by default but 1 when we reach mobile -->
+  <!--  Github doesn't support responsive display types so use a table, remove the style attribute from div  -->
 </div>
 
 <h1 align="center">Technologies</h1>
