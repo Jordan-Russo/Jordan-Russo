@@ -30,7 +30,7 @@
     <td>
       <h3 align="center">Urban Cuts</h3>
       <br />
-      <a target="_blank" href="https://github.com/Jordan-Russo/urban-cuts" align="center">
+      <a target="_blank" href="https://jordan-russo.github.io/urban-cuts/" align="center">
           <img src="images/urbancuts.gif" width="50%" alt="Urban Cuts"/>
       </a>
       <br />
@@ -38,7 +38,7 @@
         <a href="https://github.com/Jordan-Russo/urban-cuts" target="_blank">
           <img src="https://img.shields.io/static/v1?label=&message=REPO&color=e95e0d&style=plastic&logo=github&labelColor=333333"/>
         </a>  
-        <a href="https://github.com/Jordan-Russo/urban-cuts" target="_blank">
+        <a href="https://jordan-russo.github.io/urban-cuts/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=61dafb&style=plastic&logo=wordpress&labelColor=333333"/>
         </a>
       </p>
