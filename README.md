@@ -24,11 +24,29 @@
 
 
 <h1 align="center">Projects</h1>
-<div style="display: flex; justify-content: center; align-items: center;">
-  <!-- projects go in here -->
-  <!-- make sure to include title, gif, and description -->
-  <!--  Github doesn't support responsive display types so use a table, remove the style attribute from div  -->
-</div>
+<!-- Table Start -->
+<table align="center" bordercolor="#fff">
+  <tr align="center">
+    <td>
+      <h3 align="center">Urban Cuts</h3>
+      <br />
+      <a target="_blank" href="https://github.com/Jordan-Russo/urban-cuts" align="center">
+          <img src="images/urbancuts.gif" width="50%" alt="Urban Cuts"/>
+      </a>
+      <br />
+      <p align="center">      
+        <a href="https://github.com/Jordan-Russo/urban-cuts" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=&message=REPO&color=e95e0d&style=plastic&logo=github&labelColor=333333"/>
+        </a>  
+        <a href="https://github.com/Jordan-Russo/urban-cuts" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=61dafb&style=plastic&logo=wordpress&labelColor=333333"/>
+        </a>
+      </p>
+      <p>Fully responsive, modern website for a local barber shop! Urban Cuts gives the sharpest cuts!</p>
+    </td>
+  </tr>
+</table>
+<!-- Table End -->
 
 <h1 align="center">Technologies</h1>
 <p align="center">
