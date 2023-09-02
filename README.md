@@ -26,9 +26,8 @@
   <tr align="center">
     <td width="50%">
       <h3 align="center">Tribal</h3>
-      <br />
       <a target="_blank" href="https://tribal-production.up.railway.app/" align="center">
-          <img src="" width="50%" alt="Tribal"/>
+          <img src="images/tribalAnimation.gif" width="50%" alt="Tribal"/>
       </a>
       <br />
       <p align="center">      
@@ -43,7 +42,6 @@
     </td>
     <td width="50%">
       <h3 align="center">Urban Cuts</h3>
-      <br />
       <a target="_blank" href="https://jordan-russo.github.io/urban-cuts/" align="center">
           <img src="images/urbancuts.gif" width="50%" alt="Urban Cuts"/>
       </a>
