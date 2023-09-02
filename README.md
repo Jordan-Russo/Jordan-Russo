@@ -1,6 +1,6 @@
 <img src="images/githubReadMeBannerv2.png" alt="banner">
 
-<p align="left">Full-stack software engineer based in New York that is motived by the transformative power of technology and looking to network with others.</h3>
+<p align="left">Full-stack software engineer based in New York who is motivated by the transformative power of technology and looking to network with others.</h3>
 
 <p align="center">
   <a href="#" target="_blank">
@@ -8,9 +8,6 @@
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=LINKED-IN&color=61dafb&style=plastic&logo=linkedin&labelColor=333333" alt="LinkedIn"/>
-  </a>
-  <a href="#" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=&message=ANGEL-LIST&color=e95e0d&style=plastic&logo=angellist&labelColor=333333" alt="AngelList"/>
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=TWITTER&color=61dafb&style=plastic&logo=twitter&labelColor=333333" alt="Twitter"/>
@@ -24,10 +21,27 @@
 
 
 <h1 align="center">Projects</h1>
-<!-- Table Start -->
+<!-- Project Table Start -->
 <table align="center" bordercolor="#fff">
   <tr align="center">
-    <td>
+    <td width="50%">
+      <h3 align="center">Tribal</h3>
+      <br />
+      <a target="_blank" href="https://tribal-production.up.railway.app/" align="center">
+          <img src="" width="50%" alt="Tribal"/>
+      </a>
+      <br />
+      <p align="center">      
+        <a href="https://github.com/Jordan-Russo/tribal" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=&message=REPO&color=e95e0d&style=plastic&logo=github&labelColor=333333"/>
+        </a>  
+        <a href="https://tribal-production.up.railway.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=61dafb&style=plastic&logo=wordpress&labelColor=333333"/>
+        </a>
+      </p>
+      <p>Return to your community on Tribal! Dive into unforgettable moments and bond with souls that resonate with your vision.</p>
+    </td>
+    <td width="50%">
       <h3 align="center">Urban Cuts</h3>
       <br />
       <a target="_blank" href="https://jordan-russo.github.io/urban-cuts/" align="center">
@@ -42,7 +56,7 @@
           <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=61dafb&style=plastic&logo=wordpress&labelColor=333333"/>
         </a>
       </p>
-      <p>Fully responsive, modern website for a local barber shop! Urban Cuts gives the sharpest cuts!</p>
+      <p>Fully responsive, modern website for a local barbershop! Urban Cuts gives the sharpest cuts!</p>
     </td>
   </tr>
 </table>
@@ -68,9 +82,6 @@
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=LINKED-IN&color=61dafb&style=plastic&logo=linkedin&labelColor=333333"/>
-  </a>
-  <a href="#" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=&message=ANGEL-LIST&color=e95e0d&style=plastic&logo=angellist&labelColor=333333"/>
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=TWITTER&color=61dafb&style=plastic&logo=twitter&labelColor=333333"/>
