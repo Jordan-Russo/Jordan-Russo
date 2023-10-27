@@ -54,7 +54,7 @@
           <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=61dafb&style=plastic&logo=wordpress&labelColor=333333"/>
         </a>
       </p>
-      <p>Fully responsive, modern website for a local barbershop! Urban Cuts gives the sharpest cuts!</p>
+      <p>A friendly and attractive contemporary website for a local barbershop where locals can get the sharpest cuts!</p>
     </td>
   </tr>
 </table>
