@@ -8,10 +8,10 @@
   <a href="https://www.jordanrusso.xyz/dev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=e95e0d&style=plastic&logo=fontawesome&labelColor=333333" alt="Website"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/jordan-russo-320396228/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=LINKED-IN&color=61dafb&style=plastic&logo=linkedin&labelColor=333333" alt="LinkedIn"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://twitter.com/jordanrusso__" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=TWITTER&color=61dafb&style=plastic&logo=twitter&labelColor=333333" alt="Twitter"/>
   </a>
   <a href="#" target="_blank">
@@ -78,15 +78,15 @@
 <h1 align="center">Connect</h1>
 <p align="center">
   <a href="https://www.jordanrusso.xyz/dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=e95e0d&style=plastic&logo=fontawesome&labelColor=333333"/>
+    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=e95e0d&style=plastic&logo=fontawesome&labelColor=333333" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jordan-russo-320396228/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=LINKED-IN&color=61dafb&style=plastic&logo=linkedin&labelColor=333333" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/jordanrusso__" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=TWITTER&color=61dafb&style=plastic&logo=twitter&labelColor=333333" alt="Twitter"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=LINKED-IN&color=61dafb&style=plastic&logo=linkedin&labelColor=333333"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=TWITTER&color=61dafb&style=plastic&logo=twitter&labelColor=333333"/>
-  </a>
-  <a href="#" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=&message=RESUME&color=e95e0d&style=plastic&logo=docusign&labelColor=333333"/>
+    <img src="https://img.shields.io/static/v1?label=&message=RESUME&color=e95e0d&style=plastic&logo=docusign&labelColor=333333" alt="Resume"/>
   </a>
 </p>
