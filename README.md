@@ -45,7 +45,7 @@
     </td>
     <td width="50%">
       <h3 align="center">Tribal</h3>
-      <a target="_blank" href="https://tribal-production.up.railway.app/" align="center">
+      <a target="_blank" href="https://tribal-pvj0.onrender.com" align="center">
           <img src="images/tribalAnimation.gif" width="50%" alt="Tribal"/>
       </a>
       <br />
@@ -53,7 +53,7 @@
         <a href="https://github.com/Jordan-Russo/tribal" target="_blank">
           <img src="https://img.shields.io/static/v1?label=&message=REPO&color=e95e0d&style=plastic&logo=github&labelColor=333333"/>
         </a>  
-        <a href="https://tribal-production.up.railway.app/" target="_blank">
+        <a href="https://tribal-pvj0.onrender.com" target="_blank">
           <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=61dafb&style=plastic&logo=wordpress&labelColor=333333"/>
         </a>
       </p>
