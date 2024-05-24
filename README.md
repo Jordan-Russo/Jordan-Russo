@@ -28,6 +28,22 @@
   <!-- First Row -->
   <tr align="center">
     <td width="50%">
+      <h3 align="center">LabLIM Online</h3>
+      <a target="_blank" href="https://lablimonline.onrender.com/" align="center">
+          <img src="images/lablimonline.gif" width="50%" alt="LabLIM Online"/>
+      </a>
+      <br />
+      <p align="center">      
+        <a href="https://github.com/Jordan-Russo/lablim-online" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=&message=REPO&color=e95e0d&style=plastic&logo=github&labelColor=333333"/>
+        </a>  
+        <a href="https://lablimonline.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=61dafb&style=plastic&logo=wordpress&labelColor=333333"/>
+        </a>
+      </p>
+      <p>A platform that connects clients who need testing with organizations that can do it while streamlining the process. </p>
+    </td>
+    <td width="50%">
       <h3 align="center">Mungo Meal</h3>
       <a target="_blank" href="https://mungo-meal.onrender.com/" align="center">
           <img src="images/mungomeal.gif" width="50%" alt="Mungo Meal"/>
@@ -42,7 +58,10 @@
         </a>
       </p>
       <p>Empower Your Plate; Know Your Food, Uncover the Truth of Foods when you shop!</p>
-    </td>
+    </td>    
+  </tr>
+  <!-- second row -->
+  <tr align="center">
     <td width="50%">
       <h3 align="center">Tribal</h3>
       <a target="_blank" href="https://tribal-pvj0.onrender.com" align="center">
@@ -58,25 +77,6 @@
         </a>
       </p>
       <p>Return to your community on Tribal! Dive into unforgettable moments and bond with souls that resonate with your vision.</p>
-    </td>
-  </tr>
-  <!-- second row -->
-  <tr align="center">
-    <td width="50%">
-      <h3 align="center">Sly Cooper API</h3>
-      <a target="_blank" href="https://slyapi.onrender.com/" align="center">
-          <img src="images/slycooperapi.png" width="50%" alt="Tribal"/>
-      </a>
-      <br />
-      <p align="center">      
-        <a href="https://github.com/Jordan-Russo/sly-cooper-api" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=&message=REPO&color=e95e0d&style=plastic&logo=github&labelColor=333333"/>
-        </a>  
-        <a href="https://slyapi.onrender.com/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=61dafb&style=plastic&logo=wordpress&labelColor=333333"/>
-        </a>
-      </p>
-      <p>Your API gateway to all the lore (in JSON) from the video game Sly Cooper Universe!</p>
     </td>
     <td width="50%">
       <h3 align="center">Urban Cuts</h3>
