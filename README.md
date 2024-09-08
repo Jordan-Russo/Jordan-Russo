@@ -1,23 +1,24 @@
 <picture>
   <img src="images/githubReadMeBannerv2.png" alt="banner">
 </picture>
-
-<p align="left">Full-stack software engineer based in New York who is motivated by the transformative power of technology and looking to network with others.</h3>
-
+<h3 align="center"></h3>
 <p align="center">
   <a href="https://www.jordanrusso.xyz/dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=e95e0d&style=plastic&logo=fontawesome&labelColor=333333" alt="Website"/>
+    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=e95e0d&style=plastic&logo=wordpress&labelColor=333333" alt="Website"/>
   </a>
   <a href="https://www.linkedin.com/in/jordan-russo-320396228/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=LINKED-IN&color=61dafb&style=plastic&logo=linkedin&labelColor=333333" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/jordanrusso__" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=TWITTER&color=61dafb&style=plastic&logo=twitter&labelColor=333333" alt="Twitter"/>
+    <img src="https://img.shields.io/static/v1?label=&message=TWITTER&color=61dafb&style=plastic&logo=X&labelColor=333333" alt="Twitter"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=RESUME&color=e95e0d&style=plastic&logo=docusign&labelColor=333333" alt="Resume"/>
+    <img src="https://img.shields.io/static/v1?label=&message=RESUME&color=e95e0d&style=plastic&logo=googledocs&logoColor=fff&labelColor=333333" alt="Resume"/>
   </a>
 </p>
+
+<p align="left">I'm a Full-stack Software Engineer based in New York passionate about crafting exceptional web applications.</h3>
+
 
 <p>Visit <a href="https://www.jordanrusso.xyz/dev">my website</a> for more!</p>
 
@@ -114,15 +115,15 @@
 <h1 align="center">Connect</h1>
 <p align="center">
   <a href="https://www.jordanrusso.xyz/dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=e95e0d&style=plastic&logo=fontawesome&labelColor=333333" alt="Website"/>
+    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=e95e0d&style=plastic&logo=wordpress&labelColor=333333" alt="Website"/>
   </a>
   <a href="https://www.linkedin.com/in/jordan-russo-320396228/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=LINKED-IN&color=61dafb&style=plastic&logo=linkedin&labelColor=333333" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/jordanrusso__" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=TWITTER&color=61dafb&style=plastic&logo=twitter&labelColor=333333" alt="Twitter"/>
+    <img src="https://img.shields.io/static/v1?label=&message=TWITTER&color=61dafb&style=plastic&logo=X&labelColor=333333" alt="Twitter"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=RESUME&color=e95e0d&style=plastic&logo=docusign&labelColor=333333" alt="Resume"/>
+    <img src="https://img.shields.io/static/v1?label=&message=RESUME&color=e95e0d&style=plastic&logo=googledocs&logoColor=fff&labelColor=333333" alt="Resume"/>
   </a>
 </p>
