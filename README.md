@@ -6,7 +6,7 @@
   <a href="https://www.jordanrusso.xyz/dev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=e95e0d&style=plastic&logo=wordpress&labelColor=333333" alt="Website"/>
   </a>
-  <a href="https://www.linkedin.com/in/jordan-russo-320396228/" target="_blank">
+  <a href="https://www.linkedin.com/in/jrussodev/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=LINKED-IN&color=61dafb&style=plastic&logo=linkedin&labelColor=333333" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/jordanrusso__" target="_blank">
@@ -117,7 +117,7 @@
   <a href="https://www.jordanrusso.xyz/dev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=e95e0d&style=plastic&logo=wordpress&labelColor=333333" alt="Website"/>
   </a>
-  <a href="https://www.linkedin.com/in/jordan-russo-320396228/" target="_blank">
+  <a href="https://www.linkedin.com/in/jrussodev/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=LINKED-IN&color=61dafb&style=plastic&logo=linkedin&labelColor=333333" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/jordanrusso__" target="_blank">
