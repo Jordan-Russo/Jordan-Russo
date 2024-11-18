@@ -3,7 +3,7 @@
 </picture>
 <h3 align="center"></h3>
 <p align="center">
-  <a href="https://www.jordanrusso.xyz" target="_blank">
+  <a href="https://jordanrusso.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=e95e0d&style=plastic&logo=wordpress&labelColor=333333" alt="Website"/>
   </a>
   <a href="https://www.linkedin.com/in/jrussodev/" target="_blank">
@@ -20,7 +20,7 @@
 <p align="left">I'm a Full-stack Software Engineer based in New York passionate about crafting exceptional web applications.</h3>
 
 
-<p>Visit <a href="https://www.jordanrusso.xyz">my website</a> for more!</p>
+<p>Visit <a href="https://jordanrusso.netlify.app/">my website</a> for more!</p>
 
 
 <h1 align="center">Projects</h1>
@@ -114,7 +114,7 @@
 
 <h1 align="center">Connect</h1>
 <p align="center">
-  <a href="https://www.jordanrusso.xyz" target="_blank">
+  <a href="https://jordanrusso.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=e95e0d&style=plastic&logo=wordpress&labelColor=333333" alt="Website"/>
   </a>
   <a href="https://www.linkedin.com/in/jrussodev/" target="_blank">
