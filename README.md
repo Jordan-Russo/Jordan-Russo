@@ -80,20 +80,20 @@
       <p>Return to your community on Tribal! Dive into unforgettable moments and bond with souls that resonate with your vision.</p>
     </td>
     <td width="50%">
-      <h3 align="center">Urban Cuts</h3>
-      <a target="_blank" href="https://jordan-russo.github.io/urban-cuts/" align="center">
-          <img src="images/urbancuts.gif" width="50%" alt="Urban Cuts"/>
+      <h3 align="center">ShopRite Coupon Autoloader</h3>
+      <a target="_blank" href="https://github.com/Jordan-Russo/shoprite-coupon-autoloader" align="center">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtjGC4ZP6ta8geIJE-bG1FOXd4x5s_5QEZnQ&s" width="50%" alt="Urban Cuts"/>
       </a>
       <br />
       <p align="center">      
-        <a href="https://github.com/Jordan-Russo/urban-cuts" target="_blank">
+        <a href="https://github.com/Jordan-Russo/shoprite-coupon-autoloader" target="_blank">
           <img src="https://img.shields.io/static/v1?label=&message=REPO&color=e95e0d&style=plastic&logo=github&labelColor=333333"/>
         </a>  
-        <a href="https://jordan-russo.github.io/urban-cuts/" target="_blank">
+        <a href="https://chromewebstore.google.com/detail/shoprite-coupon-autoloade/mgehmoakfddejaoinkgnckglggjfnomf" target="_blank">
           <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=61dafb&style=plastic&logo=wordpress&labelColor=333333"/>
         </a>
       </p>
-      <p>A friendly and attractive contemporary website for a local barbershop where locals can get the sharpest cuts!</p>
+      <p>Saves time by automatically loading all digital coupons to your card with zero clicks!</p>
     </td>
   </tr>
 </table>
